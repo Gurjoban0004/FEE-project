@@ -10,10 +10,7 @@
     border
   }
   
-  .content {
-    max-width: 900px;
-    margin: 0 auto;
-  }
+
   .top_section {
     margin-top: 100px;
     display: flex;
