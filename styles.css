@@ -7,13 +7,10 @@
   .container {
     background-color: #e5e5fd;
     min-height: 100vh;
-    border: 10px solid #1d1e4c;
+    border
   }
   
-  .content {
-    max-width: 900px;
-    margin: 0 auto;
-  }
+
   .top_section {
     margin-top: 100px;
     display: flex;
